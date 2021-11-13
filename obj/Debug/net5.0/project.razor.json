@@ -147,6 +147,39 @@
         }
       },
       {
+        "HashCode": -1649604937,
+        "Kind": "Components.Component",
+        "Name": "BlazorFrontendUTS.Pages.EmployeeDtl",
+        "AssemblyName": "BlazorFrontendUTS",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "EmployeeDtl"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorFrontendUTS.Pages.EmployeeDtl"
+        }
+      },
+      {
+        "HashCode": 1767202072,
+        "Kind": "Components.Component",
+        "Name": "BlazorFrontendUTS.Pages.EmployeeDtl",
+        "AssemblyName": "BlazorFrontendUTS",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorFrontendUTS.Pages.EmployeeDtl"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorFrontendUTS.Pages.EmployeeDtl",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 988542,
         "Kind": "Components.Component",
         "Name": "BlazorFrontendUTS.Pages.EmployeePage",
@@ -13218,6 +13251,11 @@
     {
       "FilePath": "c:\\Users\\Dimas\\Front end\\BlazorFrontendUTS\\Pages\\DepartmentPage.razor",
       "TargetPath": "Pages\\DepartmentPage.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\Dimas\\Front end\\BlazorFrontendUTS\\Pages\\EmployeeDtl.razor",
+      "TargetPath": "Pages\\EmployeeDtl.razor",
       "FileKind": "component"
     },
     {

@@ -22,6 +22,7 @@ namespace BlazorFrontendUTS
             builder.Services.AddScoped(sp => new HttpClient { BaseAddress = uri });
             builder.Services.AddScoped<IDepartmentService,DepartmentService>();
             builder.Services.AddScoped<IEmployeeService,EmployeeService>();
+            builder.Services.AddScoped<IEmployeeDtlService,EmployeeDtlService>();
 
             await builder.Build().RunAsync();
         }
