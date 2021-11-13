@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Dimas\\Front end\\BlazorFrontendUTS\\BlazorFrontendUTS.csproj": {}
+    "C:\\Users\\Dimas\\Front end\\BlazorFrontendUTS\\BlazorFrontendUTS.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Dimas\\Front end\\BlazorFrontendUTS\\BlazorFrontendUTS.csproj": {
+    "C:\\Users\\Dimas\\Front end\\BlazorFrontendUTS\\BlazorFrontendUTS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Dimas\\Front end\\BlazorFrontendUTS\\BlazorFrontendUTS.csproj",
+        "projectUniqueName": "C:\\Users\\Dimas\\Front end\\BlazorFrontendUTS\\BlazorFrontendUTS.csproj",
         "projectName": "BlazorFrontendUTS",
-        "projectPath": "c:\\Users\\Dimas\\Front end\\BlazorFrontendUTS\\BlazorFrontendUTS.csproj",
+        "projectPath": "C:\\Users\\Dimas\\Front end\\BlazorFrontendUTS\\BlazorFrontendUTS.csproj",
         "packagesPath": "C:\\Users\\Dimas\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Dimas\\Front end\\BlazorFrontendUTS\\obj\\",
+        "outputPath": "C:\\Users\\Dimas\\Front end\\BlazorFrontendUTS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dimas\\AppData\\Roaming\\NuGet\\NuGet.Config"
