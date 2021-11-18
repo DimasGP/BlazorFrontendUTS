@@ -14,7 +14,7 @@ namespace BlazorFrontendUTS.Pages
         public IEnumerable<Employee> Employees {get; set; }
         
         [Inject]
-        public IEmployeeDtlService EmployeeDtlService{ get; set; }
+        public IEmployeeService EmployeeService{ get; set; }
 
         public String Koordinat{get; set; }
         protected void Mouse_Move(MouseEventArgs e){
@@ -23,7 +23,7 @@ namespace BlazorFrontendUTS.Pages
 
          protected override async Task OnInitializedAsync()
         {
-            Employees = (await EmployeeDtlService.GetEmployees()).ToList();
+            Employees = (await EmployeeService.GetAll()).ToList();
         }
     }
 }

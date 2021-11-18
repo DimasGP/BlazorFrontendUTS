@@ -4,22 +4,20 @@
 <h1>@Employee.FirstName @Employee.LastName</h1>
 <img class="card-img-top" style="width: 200px; height:200px;" src="@Employee.Photopath"  @onmousemove="@Mouse_Move"/>
 <h4>@Koordinat</h4>
-            <h3>Detail Employee</h3>
-            <p>Employee Id : @Employee.EmployeeId</p>
-            <p>Firts Name: @Employee.FirstName</p>
-            <p>Last Name : @Employee.LastName</p>
-            <p>Email : @Employee.Email</p>
-            <p>Date Of Birth: @Employee.DateOfBirth</p>
-            <p>Gender : @Employee.Gender</p>
-            <p>Department Id : @Employee.DepartmentId</p>
-            <p>Photo : @Employee.Photopath</p>
+           
+            <h4>Employee Email : @Employee.Email</h4>
+            <h4>Employee Tanggal Lahir: @Employee.DateOfBirth</h4>
+            <h4>Employee Gender: @Employee.Gender</h4>
+            <h4>Employee Foto: @Employee.Photopath</h4>
+            <h4>Employee departmentName: @Employee.DepartmentName</h4>
+            <h4>Employee departmentId: @Employee.DepartmentId</h4>
 
 
 <button class="btn btn-primary" @onclick="Button_Click">@ButtonText</button>
 
 <div class="card-footer text-center @CssClass">
             <a href="/employeedtl"><button class="btn btn-primary">Back</button></a>
-            <a href="#"><button class="btn btn-primary">Edit</button></a>
+            <a href="/editemployee/{id}"><button class="btn btn-primary">Edit</button></a>
             <a href="#"><button class="btn btn-danger">Hapus</button></a>
 </div>
 </div>
