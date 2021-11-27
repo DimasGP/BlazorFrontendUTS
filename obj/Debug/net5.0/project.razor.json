@@ -147,6 +147,59 @@
         }
       },
       {
+        "HashCode": 2119450842,
+        "Kind": "Components.Component",
+        "Name": "BlazorFrontendUTS.Pages.EditEmployee",
+        "AssemblyName": "BlazorFrontendUTS",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "EditEmployee"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorFrontendUTS.Pages.EditEmployee"
+        }
+      },
+      {
+        "HashCode": 1503210988,
+        "Kind": "Components.Component",
+        "Name": "BlazorFrontendUTS.Pages.EditEmployee",
+        "AssemblyName": "BlazorFrontendUTS",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorFrontendUTS.Pages.EditEmployee"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorFrontendUTS.Pages.EditEmployee",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -1649604937,
         "Kind": "Components.Component",
         "Name": "BlazorFrontendUTS.Pages.EmployeeDtl",
@@ -308,6 +361,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "BlazorFrontendUTS.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1030746515,
+        "Kind": "Components.Component",
+        "Name": "BlazorFrontendUTS.Pages.AddEmployee",
+        "AssemblyName": "BlazorFrontendUTS",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "AddEmployee"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorFrontendUTS.Pages.AddEmployee"
+        }
+      },
+      {
+        "HashCode": 2054302427,
+        "Kind": "Components.Component",
+        "Name": "BlazorFrontendUTS.Pages.AddEmployee",
+        "AssemblyName": "BlazorFrontendUTS",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorFrontendUTS.Pages.AddEmployee"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorFrontendUTS.Pages.AddEmployee",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -13236,6 +13322,11 @@
     {
       "FilePath": "c:\\Users\\Dimas\\Front end\\BlazorFrontendUTS\\Pages\\DetailEmployee.razor",
       "TargetPath": "Pages\\DetailEmployee.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\Dimas\\Front end\\BlazorFrontendUTS\\Pages\\AddEmployee.razor",
+      "TargetPath": "Pages\\AddEmployee.razor",
       "FileKind": "component"
     },
     {

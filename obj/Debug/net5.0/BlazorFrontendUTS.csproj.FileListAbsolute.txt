@@ -641,3 +641,5 @@ C:\Users\Dimas\Front end\BlazorFrontendUTS\obj\Debug\net5.0\RazorDeclaration\Pag
 C:\Users\Dimas\Front end\BlazorFrontendUTS\obj\Debug\net5.0\Razor\Pages\EmployeeDtl.razor.g.cs
 C:\Users\Dimas\Front end\BlazorFrontendUTS\obj\Debug\net5.0\RazorDeclaration\Pages\EditEmployee.razor.g.cs
 C:\Users\Dimas\Front end\BlazorFrontendUTS\obj\Debug\net5.0\Razor\Pages\EditEmployee.razor.g.cs
+C:\Users\Dimas\Front end\BlazorFrontendUTS\obj\Debug\net5.0\RazorDeclaration\Pages\AddEmployee.razor.g.cs
+C:\Users\Dimas\Front end\BlazorFrontendUTS\obj\Debug\net5.0\Razor\Pages\AddEmployee.razor.g.cs

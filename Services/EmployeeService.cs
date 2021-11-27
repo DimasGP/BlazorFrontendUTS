@@ -28,10 +28,6 @@ namespace BlazorFrontendUTS.Services
            return result;
         }
 
-
-       
-
-
         public async Task<Employee> Update(int id, Employee employee)
         {
             var response = await _httpClient.PutAsJsonAsync($"api/Employees/{id}",employee);
@@ -43,5 +39,18 @@ namespace BlazorFrontendUTS.Services
             }
             
         }
+
+
+        public async Task<Employee> Add(Employee obj){
+            var response = await _httpClient.PostAsJsonAsync($"api/Employees",obj);
+            if(response.IsSuccessStatusCode){
+                return await JsonSerializer.DeserializeAsync<Employee>(
+                    await response.Content.ReadAsStreamAsync());
+            }
+            else{
+                throw new Exception("Gagal Tambah Data Employee");
+            }
+        }
+
     }
 }
