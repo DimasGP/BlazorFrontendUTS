@@ -8,6 +8,39 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
+        "HashCode": -1030746515,
+        "Kind": "Components.Component",
+        "Name": "BlazorFrontendUTS.Pages.AddEmployee",
+        "AssemblyName": "BlazorFrontendUTS",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "AddEmployee"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorFrontendUTS.Pages.AddEmployee"
+        }
+      },
+      {
+        "HashCode": 2054302427,
+        "Kind": "Components.Component",
+        "Name": "BlazorFrontendUTS.Pages.AddEmployee",
+        "AssemblyName": "BlazorFrontendUTS",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorFrontendUTS.Pages.AddEmployee"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorFrontendUTS.Pages.AddEmployee",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 1491547635,
         "Kind": "Components.Component",
         "Name": "BlazorFrontendUTS.Pages.DepartmentPage",
@@ -365,68 +398,35 @@
         }
       },
       {
-        "HashCode": -1030746515,
+        "HashCode": 891431937,
         "Kind": "Components.Component",
-        "Name": "BlazorFrontendUTS.Pages.AddEmployee",
+        "Name": "BlazorFrontendUTS.Shared.NavMenu",
         "AssemblyName": "BlazorFrontendUTS",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "AddEmployee"
+            "TagName": "NavMenu"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorFrontendUTS.Pages.AddEmployee"
+          "Common.TypeName": "BlazorFrontendUTS.Shared.NavMenu"
         }
       },
       {
-        "HashCode": 2054302427,
+        "HashCode": 1719818477,
         "Kind": "Components.Component",
-        "Name": "BlazorFrontendUTS.Pages.AddEmployee",
+        "Name": "BlazorFrontendUTS.Shared.NavMenu",
         "AssemblyName": "BlazorFrontendUTS",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazorFrontendUTS.Pages.AddEmployee"
+            "TagName": "BlazorFrontendUTS.Shared.NavMenu"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorFrontendUTS.Pages.AddEmployee",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 38462391,
-        "Kind": "Components.Component",
-        "Name": "BlazorFrontendUTS.App",
-        "AssemblyName": "BlazorFrontendUTS",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorFrontendUTS.App"
-        }
-      },
-      {
-        "HashCode": -1246189871,
-        "Kind": "Components.Component",
-        "Name": "BlazorFrontendUTS.App",
-        "AssemblyName": "BlazorFrontendUTS",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorFrontendUTS.App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorFrontendUTS.App",
+          "Common.TypeName": "BlazorFrontendUTS.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -580,35 +580,35 @@
         }
       },
       {
-        "HashCode": 891431937,
+        "HashCode": 38462391,
         "Kind": "Components.Component",
-        "Name": "BlazorFrontendUTS.Shared.NavMenu",
+        "Name": "BlazorFrontendUTS.App",
         "AssemblyName": "BlazorFrontendUTS",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "NavMenu"
+            "TagName": "App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorFrontendUTS.Shared.NavMenu"
+          "Common.TypeName": "BlazorFrontendUTS.App"
         }
       },
       {
-        "HashCode": 1719818477,
+        "HashCode": -1246189871,
         "Kind": "Components.Component",
-        "Name": "BlazorFrontendUTS.Shared.NavMenu",
+        "Name": "BlazorFrontendUTS.App",
         "AssemblyName": "BlazorFrontendUTS",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazorFrontendUTS.Shared.NavMenu"
+            "TagName": "BlazorFrontendUTS.App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorFrontendUTS.Shared.NavMenu",
+          "Common.TypeName": "BlazorFrontendUTS.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
